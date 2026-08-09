@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-i6jijq.indocuan-pro.cfd/sitemap.xml
